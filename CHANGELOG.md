@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### [0.1.2] - 2021-07-09
+
+- Update syntax highlights
+- Update dependencies
+
 ### [0.1.1] - 2018-10-08
 
 - Fix syntax highlights
